@@ -1,0 +1,24 @@
+L4ST-afk · Agent Skill 工具集
+Copyright (c) 2026 L4ST-afk
+
+本仓是 L4ST-afk 的项目索引页，不是软件产品。内容为各项目的封面题图、简介与
+功能简述，以及指向各项目仓库的链接。
+
+许可
+----
+
+本仓文字与题图以 Apache License 2.0 授权，全文见 LICENSE。
+
+各项目仓库有各自的许可证，以该仓的 LICENSE 为准：
+
+- zojuta-lite（禅院塔・籁）　Apache License 2.0
+- vudgio（浮龟）　　　　　　MIT License
+- rassarpa（罗蛇）　　　　　MIT License
+- somnians（蝶花半梦）　　　MIT License
+- lesciotia（来雪亭）　　　　MIT License
+
+第三方资产
+----------
+
+本仓不含第三方代码或资产。assets/ 下的封面题图为各项目自有作品，随各项目一并
+发布。
