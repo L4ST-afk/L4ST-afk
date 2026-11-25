@@ -7,18 +7,26 @@ Copyright (c) 2026 L4ST-afk
 许可
 ----
 
-本仓文字与题图以 Apache License 2.0 授权，全文见 LICENSE。
+本仓文字与题图以 Creative Commons Attribution 4.0 International（CC BY 4.0）授权。
+许可全文见 LICENSE，亦见 https://creativecommons.org/licenses/by/4.0/
+
+使用时保留 `Copyright (c) 2026 L4ST-afk`，标明许可名称（CC BY 4.0）并给出许可链接；
+改过内容再分发，在改动处注明改动（§3(a)(1)(B)）。
 
 各项目仓库有各自的许可证，以该仓的 LICENSE 为准：
 
-- zojuta-lite（禅院塔・籁）　Apache License 2.0
+- zojuta-lite（禅院塔・籁）　CC BY 4.0
 - vudgio（浮龟）　　　　　　MIT License
 - rassarpa（罗蛇）　　　　　MIT License
 - somnians（蝶花半梦）　　　MIT License
-- lesciotia（来雪亭）　　　　MIT License
+- lesciotia（来雪亭）　　　　MIT License（代码与文档；捆绑字体与第三方资产按其原授权）
+- deducere（对鸟）　　　　　MIT License
 
 第三方资产
 ----------
 
 本仓不含第三方代码或资产。assets/ 下的封面题图为各项目自有作品，随各项目一并
 发布。
+
+CC BY 4.0 不授予专利与商标权（§2(b)(2)）。项目中文名、拉丁名与简称不随内容许可
+一并授权，未经另行许可不得用于背书或推广衍生作品。
